@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "challenge": "npm run compile && npx mocha --timeout 5000 --exit test/exploit.js",
+    "compile": "npx buidler compile"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@nomiclabs/buidler": "^1.4.3",
+    "@openzeppelin/contracts": "3.0.0",
+    "@openzeppelin/test-environment": "0.1.3",
+    "@openzeppelin/test-helpers": "0.5.5",
+    "mocha": "7.1.1"
+  }
+}
