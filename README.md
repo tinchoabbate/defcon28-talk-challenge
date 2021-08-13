@@ -1,6 +1,6 @@
 # Smart contract hacking challenge
 
-> Challenge introduced in my "7 phases of smart contract security" talk at DEF CON 28 in the Blockchain Village
+> Challenge introduced in my ["7 phases of smart contract security" talk](https://www.youtube.com/watch?v=gGUOjtri4n8) at DEF CON 28 in the Blockchain Village
 
 This challenge involves governance and flash loans. What could go wrong, right ?
 
